@@ -4,7 +4,7 @@
 <p align="center"><img src="https://a.d-cd.net/fQAAAgEBFeA-1920.jpg" src= width="300"></p>
 
 <p><a href="https://shop2.am73.ru/">Автозапчасти для иномарок</p>
------
+
 * Студент: Романов Даниил 
 * Группа: 21ИС-5
 * Проверил: Литвинов И.В.
